@@ -1,7 +1,6 @@
 leak it = false
-ramadan event
-sorry but this mod is closed due to ramadan event, ramadan kareem
-
+none
+none
 
 --reminder
 line 1 -> if the mod is activated or not
