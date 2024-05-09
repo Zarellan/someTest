@@ -1,1 +1,9 @@
 leak it = false
+none
+none
+
+
+--reminder
+line 1 -> if the mod is activated or not
+line 2 -> title (if it's for leak reason add "none")
+line 3 -> title (if it's for leak reason add "none" either)
