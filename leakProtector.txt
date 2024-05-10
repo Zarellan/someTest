@@ -1,8 +1,10 @@
-leak it = false
+leak it = true
 none
-hello--how are you
+none
 
---reminder
+
+-- reminders
 line 1 -> if the mod is activated or not
 line 2 -> title (if it's for leak reason add "none")
-line 3 -> description (if it's for leak reason add "none" either)
+line 3 -> description (if it's for leak reason add "none")
+"--" -> new line (if I added \n instead of --, the program will split it early and will ignore the description after adding \n)
